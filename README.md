@@ -1,1 +1,1 @@
-# git-github-playground
+# Git with GitHub: Commands and tips
